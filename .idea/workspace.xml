@@ -2,13 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84f6c33e-c57e-45f3-9d92-4da96a866881" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Android_5_Google_Account_Manager.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Android_6_Google_Account_Manager (123).apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Bypass+FRP+2018.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Bypass_FRP-1.0.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Bypass_FRP_Android_6_&amp;_Android_8.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/FRP+Calculator7.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/FRP.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/FrpAllSamsung.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Google Manager 8.0 Android 8.0.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Google+account+manager+8.0.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Menu+Button+(NO+ROOT)+v2.1.1(48)+FULL+(Rus).apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Remote+Gsmedge.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/com.afwsamples.testdpc_2.0.6-2006_minAPI21(nodpi).apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/com.rootjunky.frpbypass-1.0.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/com.wakdev.wdnfc.4.4.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/es-file-explorer-4-1-6.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/frp.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/gam7.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/gam7.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/mohammad.adib.sidebar_4.4.0_paid-www.apkhere.com.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/moto g3 x1550_collozgsm.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/samsung bypass google verify.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apk/Кнопка+меню+v2.1.2(49).apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/frprom.apk" beforeDir="false" afterPath="$PROJECT_DIR$/apk/FRPROM.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +70,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/webcourses/react 19.07.19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nursu\PhpstormProjects\frpfiles\apk" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -75,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577287508134</updated>
       <workItem from="1577287523937" duration="5084000" />
+      <workItem from="1580186559630" duration="2628000" />
     </task>
     <servers />
   </component>
