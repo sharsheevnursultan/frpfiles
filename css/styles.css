@@ -10,8 +10,8 @@
     padding: 10px;
 }
 
-.items-block h3 {
-    flex-wrap: wrap;
+.items-block h4 {
+    text-transform: capitalize;
 }
 
 .items-block a {
