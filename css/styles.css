@@ -8,13 +8,17 @@
     border: 2px solid firebrick;
     margin: 10px;
     padding: 10px;
-    overflow: fragments;
+}
+
+.items-block h3 {
+    flex-wrap: wrap;
 }
 
 .items-block a {
     color: #fff;
 
 }
+
 .items-block a:hover {
     color: #ffff;
 }
