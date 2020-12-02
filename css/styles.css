@@ -10,12 +10,24 @@
     padding: 10px;
 }
 
+.items-block:hover {
+    transition: .3s;
+    background: #fff;
+}
+
 .items-block h4 {
     text-transform: capitalize;
 }
 
+.items-block:hover h4 {
+    color: #1d2124;
+    background: transparent;
+}
+
 .items-block a {
     color: #fff;
+    background: transparent;
+    text-decoration: none;
 
 }
 
