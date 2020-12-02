@@ -12,7 +12,7 @@
 
 .items-block:hover {
     transition: .3s;
-    background: #fff;
+    background: rgba(0, 0, 0, .5);
 }
 
 .items-block h4 {
@@ -20,7 +20,7 @@
 }
 
 .items-block:hover h4 {
-    color: #1d2124;
+    color: #fff;
     background: transparent;
 }
 
