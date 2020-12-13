@@ -8,9 +8,11 @@
     border: 2px solid firebrick;
     margin: 10px;
     padding: 10px;
+    transition: .3s;
 }
 
 .items-block:hover {
+    border-color: white;
     transition: .3s;
     background: rgba(0, 0, 0, .5);
 }
