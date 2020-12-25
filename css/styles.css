@@ -3,6 +3,10 @@
     scroll-behavior: smooth;
     background: #1d2124;
 }
+body{
+    background: #1d2124;
+
+}
 
 .items-block {
     border: 2px solid firebrick;
