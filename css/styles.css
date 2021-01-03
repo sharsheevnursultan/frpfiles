@@ -45,3 +45,8 @@ body{
     font-family: Montserrat, sans-serif;
     padding: 1em 0;
 }
+
+.sector-title{
+    color: #fff;
+    text-align: center;
+}
