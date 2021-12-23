@@ -19,6 +19,8 @@ body{
     border-color: white;
     transition: .3s;
     background: rgba(0, 0, 0, .5);
+    border-radius: 15px;
+    
 }
 
 .items-block h4 {
