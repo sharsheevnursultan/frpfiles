@@ -1,9 +1,17 @@
+*{
+    background-color: #F9D7BF;
+    color: #383F29;
+}
+a{
+    text-decoration: none;
+}
+
 h4{
     transition: 1s;
 }
 
 h4:hover{
     margin-left: 10px;
-    transition: 2s;
-    color: red;
+    transition: 1s;
+    color: #FD9560;
 }
